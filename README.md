@@ -1,4 +1,6 @@
 ## Hi there 👋
+🌱 I’m currently learning JavaScript...
+😄 Pronouns: HE/HIS/HIM...
 
 <!--
 **suraj7871/suraj7871** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
